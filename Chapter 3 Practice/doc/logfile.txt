@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice
+-d
+C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\Car.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\Car.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_45
+Building tree for all the packages and classes...
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\Car.html...
+C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\Car.java:60: warning - @pre is an unknown tag.
+C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\Car.java:60: warning - @param argument "gallonOfGas" is not a parameter name.
+C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\Car.java:37: warning - @pre is an unknown tag.
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\package-frame.html...
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\package-summary.html...
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\allclasses-frame.html...
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\allclasses-noframe.html...
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\index.html...
+Generating C:\Users\atekriwal\Desktop\GitHub\unit2Classes\Chapter 3 Practice\doc\stylesheet.css...
+3 warnings
